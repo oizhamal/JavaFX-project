@@ -5,7 +5,8 @@
 <h2>Software & libraries used:</h2>
 <ul>
   <li>Java SE Development Kit 19.0.1</li>
-  <li>JavaFX SDK 11.0.2</li>
+  <li>JavaFX SDK 11.0.2</li>![Screenshot1](https://user-images.githubusercontent.com/91153678/209859237-4837157c-3bf4-451e-baf1-fc7c874e0314.jpg)
+
   <li>Scene Builder 11.0.0</li>
   <li>CSS</li>
   <li>IntelliJ IDEA</ul>
@@ -16,6 +17,8 @@
   <li>Search of the fruit</li>
 </ul>
 <h2>Screenshots:</h2>
+![Uploading Screenshot1.jpg…]()
+![Screenshot2](https://user-images.githubusercontent.com/91153678/209859243-d9164661-6d7a-46ff-a1ad-077e6f4ccc2e.jpg)
 
 <h2>Installation instructions:</h2>
 <ul>
