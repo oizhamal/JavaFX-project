@@ -1,6 +1,6 @@
-<h1>JavaFX project - Fruit Market</h1>
+<h1>JavaFX project - Fruits Market</h1>
 <h2>Description:</h2>
-<p>This is an online store for ordering fruit to your home. To be honest, this is only the frontend part of the project. There are no functions for creating a profile, calculating the cost of the order, and so on.</p>
+<p>This is an online store for ordering fruit to your home. <br>To be honest, this is only the frontend part of the project. There are no functions of creating a profile, calculating the cost of the order, and so on.</p>
 
 <h2>Software & libraries used:</h2>
 <ul>
