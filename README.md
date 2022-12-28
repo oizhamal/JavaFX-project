@@ -17,8 +17,8 @@
   <li>Search of the fruit</li>
 </ul>
 <h2>Screenshots:</h2>
-<img src="C:\Users\aizhamal.zhetigenova\OneDrive - University of Central Asia\Desktop\JavaFX\FruitMarket\img\Screenshot1.jpg">
-<img src="C:\Users\aizhamal.zhetigenova\OneDrive - University of Central Asia\Desktop\JavaFX\FruitMarket\img\Screenshot2.jpg">
+<img src="/img/Screenshot1.jpg">
+<img src="/img/Screenshot2.jpg">
 
 <h2>Installation instructions:</h2>
 <ul>
